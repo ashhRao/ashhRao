@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**ashhRao/ashhRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko')
 
 Here are some ideas to get you started:
 
