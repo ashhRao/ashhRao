@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🌱 I’m intrested on "Check My Repo"
 - 👯 I’m currently learning and uploading videos on My YouTube
 - 🤔 I'll be happy to Hear if your from my Channel
-- ⚡ True fact; Dont be a Dreamer 
+- ⚡ True fact; Dont be a Dreamer be Dreametive
 - 💬 Byee, Hee HAWww
